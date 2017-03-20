@@ -1,5 +1,5 @@
 #!/bin/sh
-extensions=("old" "OLD" "back" "backup" "BAK" "cpy" "copy" "other" "OK")
+extensions=("old" "OLD" "back" "back" "backup" "BAK" "cpy" "copy" "other" "OK")
 
 for F in "$@"
 do
